@@ -1,5 +1,17 @@
 "# prog6221-poe-ST10311395" 
 please note the my final code is in zipped folder
+/* 
+    CyberGuardian ChatBot - Full Version
+    Author: Katelyn Narain - ST10311395
+    Date:27 June  2025
+     
+    References:
+    - C# Dictionary and List usage: Microsoft Docs - https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic
+    - Figgle ASCII Art Library: https://www.nuget.org/packages/Figgle/
+    - System.Media.SoundPlayer documentation: https://learn.microsoft.com/en-us/dotnet/api/system.media.soundplayer
+    - Chatbot conversation flow inspired by best practices from natural language processing guidance
+    - Error handling patterns based on .NET best practices
+    - Ty
 # 🛡️ CyberGuardian – Your AI Cybersecurity Companion
 
 CyberGuardian is a C# console-based chatbot that educates users on cybersecurity topics, assists with tasks like setting reminders, and features an interactive quiz. It uses natural language recognition and sentiment detection to create an intelligent and helpful experience for users seeking to improve their cyber awareness.
